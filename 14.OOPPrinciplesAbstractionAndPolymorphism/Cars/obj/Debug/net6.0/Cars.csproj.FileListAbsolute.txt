@@ -1,0 +1,14 @@
+D:\KD\SoftUni\QA Programming Advanced\14.OOP Principles Abstraction and Polymorphism\Resources\Cars\bin\Debug\net6.0\Cars.exe
+D:\KD\SoftUni\QA Programming Advanced\14.OOP Principles Abstraction and Polymorphism\Resources\Cars\bin\Debug\net6.0\Cars.deps.json
+D:\KD\SoftUni\QA Programming Advanced\14.OOP Principles Abstraction and Polymorphism\Resources\Cars\bin\Debug\net6.0\Cars.runtimeconfig.json
+D:\KD\SoftUni\QA Programming Advanced\14.OOP Principles Abstraction and Polymorphism\Resources\Cars\bin\Debug\net6.0\Cars.dll
+D:\KD\SoftUni\QA Programming Advanced\14.OOP Principles Abstraction and Polymorphism\Resources\Cars\bin\Debug\net6.0\Cars.pdb
+D:\KD\SoftUni\QA Programming Advanced\14.OOP Principles Abstraction and Polymorphism\Resources\Cars\obj\Debug\net6.0\Cars.GeneratedMSBuildEditorConfig.editorconfig
+D:\KD\SoftUni\QA Programming Advanced\14.OOP Principles Abstraction and Polymorphism\Resources\Cars\obj\Debug\net6.0\Cars.AssemblyInfoInputs.cache
+D:\KD\SoftUni\QA Programming Advanced\14.OOP Principles Abstraction and Polymorphism\Resources\Cars\obj\Debug\net6.0\Cars.AssemblyInfo.cs
+D:\KD\SoftUni\QA Programming Advanced\14.OOP Principles Abstraction and Polymorphism\Resources\Cars\obj\Debug\net6.0\Cars.csproj.CoreCompileInputs.cache
+D:\KD\SoftUni\QA Programming Advanced\14.OOP Principles Abstraction and Polymorphism\Resources\Cars\obj\Debug\net6.0\Cars.dll
+D:\KD\SoftUni\QA Programming Advanced\14.OOP Principles Abstraction and Polymorphism\Resources\Cars\obj\Debug\net6.0\refint\Cars.dll
+D:\KD\SoftUni\QA Programming Advanced\14.OOP Principles Abstraction and Polymorphism\Resources\Cars\obj\Debug\net6.0\Cars.pdb
+D:\KD\SoftUni\QA Programming Advanced\14.OOP Principles Abstraction and Polymorphism\Resources\Cars\obj\Debug\net6.0\Cars.genruntimeconfig.cache
+D:\KD\SoftUni\QA Programming Advanced\14.OOP Principles Abstraction and Polymorphism\Resources\Cars\obj\Debug\net6.0\ref\Cars.dll

@@ -1,0 +1,14 @@
+D:\KD\SoftUni\QA Programming Advanced\14.OOP Principles Abstraction and Polymorphism\Resources\Raiding\bin\Debug\net6.0\Raiding.exe
+D:\KD\SoftUni\QA Programming Advanced\14.OOP Principles Abstraction and Polymorphism\Resources\Raiding\bin\Debug\net6.0\Raiding.deps.json
+D:\KD\SoftUni\QA Programming Advanced\14.OOP Principles Abstraction and Polymorphism\Resources\Raiding\bin\Debug\net6.0\Raiding.runtimeconfig.json
+D:\KD\SoftUni\QA Programming Advanced\14.OOP Principles Abstraction and Polymorphism\Resources\Raiding\bin\Debug\net6.0\Raiding.dll
+D:\KD\SoftUni\QA Programming Advanced\14.OOP Principles Abstraction and Polymorphism\Resources\Raiding\bin\Debug\net6.0\Raiding.pdb
+D:\KD\SoftUni\QA Programming Advanced\14.OOP Principles Abstraction and Polymorphism\Resources\Raiding\obj\Debug\net6.0\Raiding.GeneratedMSBuildEditorConfig.editorconfig
+D:\KD\SoftUni\QA Programming Advanced\14.OOP Principles Abstraction and Polymorphism\Resources\Raiding\obj\Debug\net6.0\Raiding.AssemblyInfoInputs.cache
+D:\KD\SoftUni\QA Programming Advanced\14.OOP Principles Abstraction and Polymorphism\Resources\Raiding\obj\Debug\net6.0\Raiding.AssemblyInfo.cs
+D:\KD\SoftUni\QA Programming Advanced\14.OOP Principles Abstraction and Polymorphism\Resources\Raiding\obj\Debug\net6.0\Raiding.csproj.CoreCompileInputs.cache
+D:\KD\SoftUni\QA Programming Advanced\14.OOP Principles Abstraction and Polymorphism\Resources\Raiding\obj\Debug\net6.0\Raiding.dll
+D:\KD\SoftUni\QA Programming Advanced\14.OOP Principles Abstraction and Polymorphism\Resources\Raiding\obj\Debug\net6.0\refint\Raiding.dll
+D:\KD\SoftUni\QA Programming Advanced\14.OOP Principles Abstraction and Polymorphism\Resources\Raiding\obj\Debug\net6.0\Raiding.pdb
+D:\KD\SoftUni\QA Programming Advanced\14.OOP Principles Abstraction and Polymorphism\Resources\Raiding\obj\Debug\net6.0\Raiding.genruntimeconfig.cache
+D:\KD\SoftUni\QA Programming Advanced\14.OOP Principles Abstraction and Polymorphism\Resources\Raiding\obj\Debug\net6.0\ref\Raiding.dll
