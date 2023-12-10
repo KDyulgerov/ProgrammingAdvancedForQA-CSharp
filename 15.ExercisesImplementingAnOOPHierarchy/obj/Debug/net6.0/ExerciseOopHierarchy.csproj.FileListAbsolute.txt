@@ -1,0 +1,14 @@
+D:\KD\SoftUni\QA Programming Advanced\15.Exercises Implementing an OOP Hierarchy\Resources\bin\Debug\net6.0\ExerciseOopHierarchy.exe
+D:\KD\SoftUni\QA Programming Advanced\15.Exercises Implementing an OOP Hierarchy\Resources\bin\Debug\net6.0\ExerciseOopHierarchy.deps.json
+D:\KD\SoftUni\QA Programming Advanced\15.Exercises Implementing an OOP Hierarchy\Resources\bin\Debug\net6.0\ExerciseOopHierarchy.runtimeconfig.json
+D:\KD\SoftUni\QA Programming Advanced\15.Exercises Implementing an OOP Hierarchy\Resources\bin\Debug\net6.0\ExerciseOopHierarchy.dll
+D:\KD\SoftUni\QA Programming Advanced\15.Exercises Implementing an OOP Hierarchy\Resources\bin\Debug\net6.0\ExerciseOopHierarchy.pdb
+D:\KD\SoftUni\QA Programming Advanced\15.Exercises Implementing an OOP Hierarchy\Resources\obj\Debug\net6.0\ExerciseOopHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+D:\KD\SoftUni\QA Programming Advanced\15.Exercises Implementing an OOP Hierarchy\Resources\obj\Debug\net6.0\ExerciseOopHierarchy.AssemblyInfoInputs.cache
+D:\KD\SoftUni\QA Programming Advanced\15.Exercises Implementing an OOP Hierarchy\Resources\obj\Debug\net6.0\ExerciseOopHierarchy.AssemblyInfo.cs
+D:\KD\SoftUni\QA Programming Advanced\15.Exercises Implementing an OOP Hierarchy\Resources\obj\Debug\net6.0\ExerciseOopHierarchy.csproj.CoreCompileInputs.cache
+D:\KD\SoftUni\QA Programming Advanced\15.Exercises Implementing an OOP Hierarchy\Resources\obj\Debug\net6.0\ExerciseOopHierarchy.dll
+D:\KD\SoftUni\QA Programming Advanced\15.Exercises Implementing an OOP Hierarchy\Resources\obj\Debug\net6.0\refint\ExerciseOopHierarchy.dll
+D:\KD\SoftUni\QA Programming Advanced\15.Exercises Implementing an OOP Hierarchy\Resources\obj\Debug\net6.0\ExerciseOopHierarchy.pdb
+D:\KD\SoftUni\QA Programming Advanced\15.Exercises Implementing an OOP Hierarchy\Resources\obj\Debug\net6.0\ExerciseOopHierarchy.genruntimeconfig.cache
+D:\KD\SoftUni\QA Programming Advanced\15.Exercises Implementing an OOP Hierarchy\Resources\obj\Debug\net6.0\ref\ExerciseOopHierarchy.dll
